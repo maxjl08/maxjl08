@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @needmorecoffee995
+- 👋 Hi, I’m @Traumfolge
 -I do mods and stuff for games!
-I use mainly C# and C++, currently learning JavaScript for some web development projects! 
+I use mainly C# and C++.
 
 <!---
 needmorecoffee995/needmorecoffee995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
