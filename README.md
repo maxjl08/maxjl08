@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Traumfolge
--I do mods and stuff for games!
-I use mainly C# and C++.
+- 👋 Heya! My name is Max -I'm a Video Game modder, and Unreal Engine Developer!
+I use C++ for Unreal Engine, and lua, EnScript, and C# for modding.
 
 <!---
 needmorecoffee995/needmorecoffee995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
