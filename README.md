@@ -1,1 +1,1 @@
-Hello! My name is Max. I make games and other stuff too.
+I make tools for developers in my spare time.
